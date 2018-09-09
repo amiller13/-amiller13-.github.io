@@ -4,9 +4,9 @@ title: Good Design: Coffee Maker
 subtitle: Good Design/Bad Design Assignment 
 gh-repo: amiller13/amiller13
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [design]
 ---
-
+#Good Design: Coffee Maker
 In his book, "The Design Of Everyday Things," Norman breaks good design into two crucial componants: "discoverability and understandability." For him, this means that well designed objects must clearly display both their range of possible actions and the procedure for performing these actions. I think my simple coffee machine perfectly embodies Norman's criteria. 
 ![Coffee Maker](https://github.com/amiller13/amiller13.github.io/blob/master/_posts/IMG_0828.jpg).
 The coffee maker only has one switch with clear signifiers: "on" and "off" labels. 
