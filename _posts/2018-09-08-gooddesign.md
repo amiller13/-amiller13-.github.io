@@ -2,7 +2,7 @@
 layout: post
 title: Good Design: Coffee Maker
 subtitle: Good Design/Bad Design Assignment 
-gh-repo: daattali/beautiful-jekyll
+gh-repo: amiller13/amiller13
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
