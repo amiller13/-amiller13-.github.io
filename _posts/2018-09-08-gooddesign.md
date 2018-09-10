@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Good Design: Coffee Maker
-subtitle: Good Design/Bad Design Assignment 
-gh-repo: amiller13/amiller13
-gh-badge: [star, fork, follow]
-tags: [design]
 ---
 
 #Good Design: Coffee Maker
