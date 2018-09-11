@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design
-subtitle: An Example of Good Design: My Coffee Maker
+subtitle: My Coffee Maker, A Well Designed Object
 ---
 
 Good Design: Coffee Maker
