@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Design: Coffee Maker
+title: Good Design Coffee Maker
 ---
 
 Good Design: Coffee Maker
