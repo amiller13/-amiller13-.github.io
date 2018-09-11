@@ -7,4 +7,4 @@ Last July, I awoke at 5am and realized the beeping noise that had enterred my dr
 This frightening experience was solely the result of the poor design of my fire-alarm. First of all, the noise was quiet enough to meld into my dream instead of immediately waking me up. In a true emergency, this volume would be insufficient and possibly life-threatening. In addition, the meaning of the alarm's noise was not clear. Instead of making different noises for fires, gas and insufficient battery my machine seems to emit the same chirp for all alerts even though the three situations necessitate vastly different responses from the user. Or if the alarm does make different sounds for these situations, It does not clearly explain the distinction between the noises it makes. A better designed alarm would speak to me in addition to beeping, ellucidating the meaning behind the noise.   
 Asthetically, the alarm is displeasing to look at. It's plastic appearance connected to an ugly metal pipe infects the kitchen making the room look ugly and industrial. 
 ![alarm one](/img/alarm1.jpg)
-![alarm two] (/img/alarm2.jpg)
+![alarm two](/img/alarm2.jpg)
