@@ -6,7 +6,7 @@ subtitle: My Coffee Maker, A Well Designed Object
 
 Good Design: Coffee Maker
 In his book, "The Design Of Everyday Things," Norman breaks good design into two crucial componants: "discoverability and understandability." For him, this means that well designed objects must clearly display both their range of possible actions and the procedure for performing these actions. I think my simple coffee machine perfectly embodies Norman's criteria. 
-![Coffee Maker](IMG_0828.jpg)
+![Coffee Maker](coffeefull.png)
 The coffee maker only has one switch with clear signifiers: "on" and "off" labels. 
 ![Switch](IMG_0834.jpg)
 To use the coffee machine, one must only flip the switch from the off position to the on position and the machine offers clear feedback: the switch lights up when it is in the on position. 
