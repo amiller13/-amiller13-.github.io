@@ -7,7 +7,9 @@ This group project proposal is adapted from Abby Miller's original work.
 
 **Group**
 Grace Murray - 20gem3.github.io
+
 Abby Miller - amiller13.github.io
+
 Maria Mejia - mc-mejia.github.io
 
 # **Problem**
