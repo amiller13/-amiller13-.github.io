@@ -3,6 +3,13 @@ layout: post
 title: Group Project Proposal
 subtitle: Grace Murray, Abby Miller and Maria Mejia's Group Proposal
 ---
+This group project proposal is adapted from Abby Miller's original work.
+
+**Group**
+Grace Murray - 20gem3.github.io
+Abby Miller - amiller13.github.io
+Maria Mejia - mc-mejia.github.io
+
 # **Problem**
 Many people I know have described their relationships to museums through the phrase, “I’m not really a museum person.” When pressed, they often explain that they don’t actively dislike the act of looking at art. Rather, they find themselves bored at museums, intimidated by the knowledgable people surrounding them who can spend seemingly-unlimited amounts of time gazing at a single work.  
 
