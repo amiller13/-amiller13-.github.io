@@ -4,17 +4,17 @@ title: Team Contract
 subtitle: Grace, Abby and Maria's Team Contract
 ---
 # **Guiding Principles**
-*collaboration
-*respect
-*trust
-*fun!
-*open-mindedness
+* collaboration
+* respect
+* trust
+* fun!
+* open-mindedness
 # **Purpose**
 We want to design an innovative tool that will help visitors achieve an engaging and enjoyable experience in a museum. Our final product should be accessible, immaginative and clearly useful. 
 # **Group Roles**
-*Designated Delegator: The D.D is responsible for managing tasks, assigning jobs and (kindly) keeping people focused and productive.
-*Creative Consult: The C.C. is meant to keep our work open-minded and imaginative. They will promote good brain-storm practices and attempt to think outside of the box.
-*Logic Liason: The L.L keeps our feet on the ground, reminding the group of the project guidelines, good design practices (as outlined by Norman) and feasibility for the semester. 
+* Designated Delegator: The D.D is responsible for managing tasks, assigning jobs and (kindly) keeping people focused and productive.
+* Creative Consult: The C.C. is meant to keep our work open-minded and imaginative. They will promote good brain-storm practices and attempt to think outside of the box.
+* Logic Liason: The L.L keeps our feet on the ground, reminding the group of the project guidelines, good design practices (as outlined by Norman) and feasibility for the semester. 
 # **Division**
 We will change roles week to week to bring fresh perspectives and avoid power dynamics. We also will try our absolute best to divide work evenly and commmunicate openly when we feel that we are doing too much or too little. The Designated Delegator will help facilitate these discussions about uneven workloads (and will be vigilant, looking for potential discrepencies). 
 # **Plan** 
