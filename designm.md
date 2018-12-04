@@ -24,7 +24,7 @@ There are too many unethical pieces of technology that we are constantly exposed
 1) Be transparent with your user. If you are taking in personal information of any form, be clear about what you are using it for. For example, in our smart watch app, we wanted to have users enter an email address alongside their interpretations so that they could be notified by email if anyone responded to their submission. It was important to my group that users could choose whether or not they received this email notification—we did not want to be a source of unwanted clutter in someone’s email inbox.
 
 
-2)Do not cause injury to your users. First and foremost, do not create a product that could cause your users physical damage but also do not injure your user’s mental wellbeing.  My group determined that it would be tricky for our application to physically hurt someone. However, because we are allowing anyone to submit an interpretation, it is possible that users will submit offensive or derogatory content. We decided we need some sort of moderator system to regulate and edit the content on our app to minimize the potential for emotional injury from our app.
+2) Do not cause injury to your users. First and foremost, do not create a product that could cause your users physical damage but also do not injure your user’s mental wellbeing.  My group determined that it would be tricky for our application to physically hurt someone. However, because we are allowing anyone to submit an interpretation, it is possible that users will submit offensive or derogatory content. We decided we need some sort of moderator system to regulate and edit the content on our app to minimize the potential for emotional injury from our app.
 
 
 3) Ask for feedback. Respond to feedback. If a user feels violated in any way by your product, its important to have a mechanism to recognize this and respond this built into your design.
@@ -32,7 +32,7 @@ There are too many unethical pieces of technology that we are constantly exposed
 
 4) Respect Privacy. We chose to prioritize anonymity in every aspect of our app so that users could protect their identities to the maximum degree. 
 
-5)Design towards a better world. Build something that you can honestly say will improve your user’s life. It doesn’t need to be solving a major world issue (although it doesn’t hurt if it can) but it should at least bring people joy. 
+5) Design towards a better world. Build something that you can honestly say will improve your user’s life. It doesn’t need to be solving a major world issue (although it doesn’t hurt if it can) but it should at least bring people joy. 
 ### Final Thoughts: The Importance of Language
 When discussing the process of affinity diagramming, Beyer and Holtzblatt write that it is critically importance to use the language of the user whenever possible (Beyer and Holtzblat, 159). My five core design principles, “Think Outside the Box,” “Banish Pre-Conceived Notions,” “Maximize Inclusivity,” “Revise and Repeat” and “Don’t Be Evil” are formulated in personal language that resonates with me. Though I understand that these titles might not resonate with all readers, I hope that the explanations offer sufficient proof that these are critical ideals to hold in order to build beautiful, accessible, easy-to-use technology. 
 ### Works Cited
